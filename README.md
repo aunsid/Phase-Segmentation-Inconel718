@@ -6,7 +6,7 @@
 ## After Segmentation
 blackandwhiteclustering.m
 
-![Picture](images/5.png)
+![Picture](images/25.jpg)
 
 
 ## Scalebar
